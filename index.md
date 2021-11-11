@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Bem vindo ao meu blog, aqui você encontrará alguns artigos sobre temas que estou estudando, pretendo publicar aqui minha visão sobre tópicos para me auxiliar nos estudos e ficar registrado.
 
-Maybe say a some things about yourself.
+Meu foco é em desenvolvimento Backend em .Net
 
-Or maybe what you plan to blog about.
+Espero que goste do conteúdo.
